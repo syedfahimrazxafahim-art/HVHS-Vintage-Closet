@@ -1,0 +1,6 @@
+{
+  "name": "HVHS Thrift Boutique",
+  "description": "Curated secondhand fashion, designer vintage, sustainable apparel, and community pop-up boutique in Rockland County, NY.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
